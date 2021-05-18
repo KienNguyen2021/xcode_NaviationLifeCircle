@@ -56,8 +56,7 @@ class ViewController: UIViewController {
         let manhinh2 = sb.instantiateViewController(identifier: "MAUXANH") as! MAUXANHViewController
         
         //manhinh2.hoten=" Kelly & Kenny"
-        
-        // or nhap  truc tiep vo box o man hinh 1 :
+        // or nhap  truc tiep vo box o man hinh 1, output in man hinh 2 :
         
         manhinh2.hoten = txtHoTenVang.text
         
