@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2150DEA526538D9600F9CBA4 /* MAUDOViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2150DEA426538D9600F9CBA4 /* MAUDOViewController.swift */; };
 		2193AC572652CE5B004BC1AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2193AC562652CE5B004BC1AC /* AppDelegate.swift */; };
 		2193AC592652CE5B004BC1AC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2193AC582652CE5B004BC1AC /* SceneDelegate.swift */; };
 		2193AC5B2652CE5B004BC1AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2193AC5A2652CE5B004BC1AC /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2150DEA426538D9600F9CBA4 /* MAUDOViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAUDOViewController.swift; sourceTree = "<group>"; };
 		2193AC532652CE5B004BC1AC /* NaviationLifeCircle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NaviationLifeCircle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2193AC562652CE5B004BC1AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2193AC582652CE5B004BC1AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				2193AC612652CE5B004BC1AC /* LaunchScreen.storyboard */,
 				2193AC642652CE5B004BC1AC /* Info.plist */,
 				2193AC6A2652D1D8004BC1AC /* MAUXANHViewController.swift */,
+				2150DEA426538D9600F9CBA4 /* MAUDOViewController.swift */,
 			);
 			path = NaviationLifeCircle;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2193AC5B2652CE5B004BC1AC /* ViewController.swift in Sources */,
+				2150DEA526538D9600F9CBA4 /* MAUDOViewController.swift in Sources */,
 				2193AC572652CE5B004BC1AC /* AppDelegate.swift in Sources */,
 				2193AC592652CE5B004BC1AC /* SceneDelegate.swift in Sources */,
 				2193AC6B2652D1D8004BC1AC /* MAUXANHViewController.swift in Sources */,
