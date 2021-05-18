@@ -5,6 +5,8 @@
 //  Created by Kien Nguyen on 2021-05-17.
 //
 
+// Life Circle and Truyen tham so giua cac man hinh voi nhau :
+
 import UIKit
 
 class ViewController: UIViewController {

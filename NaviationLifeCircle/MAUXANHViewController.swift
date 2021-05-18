@@ -5,6 +5,8 @@
 //  Created by Kien Nguyen on 2021-05-17.
 //
 
+// this is the received Screen :
+
 import UIKit
 
 class MAUXANHViewController: UIViewController {
