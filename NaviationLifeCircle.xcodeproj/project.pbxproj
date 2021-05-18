@@ -13,6 +13,7 @@
 		2193AC5E2652CE5B004BC1AC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2193AC5C2652CE5B004BC1AC /* Main.storyboard */; };
 		2193AC602652CE5B004BC1AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2193AC5F2652CE5B004BC1AC /* Assets.xcassets */; };
 		2193AC632652CE5B004BC1AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2193AC612652CE5B004BC1AC /* LaunchScreen.storyboard */; };
+		2193AC6B2652D1D8004BC1AC /* MAUXANHViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2193AC6A2652D1D8004BC1AC /* MAUXANHViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2193AC5F2652CE5B004BC1AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2193AC622652CE5B004BC1AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2193AC642652CE5B004BC1AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2193AC6A2652D1D8004BC1AC /* MAUXANHViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAUXANHViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2193AC5F2652CE5B004BC1AC /* Assets.xcassets */,
 				2193AC612652CE5B004BC1AC /* LaunchScreen.storyboard */,
 				2193AC642652CE5B004BC1AC /* Info.plist */,
+				2193AC6A2652D1D8004BC1AC /* MAUXANHViewController.swift */,
 			);
 			path = NaviationLifeCircle;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				2193AC5B2652CE5B004BC1AC /* ViewController.swift in Sources */,
 				2193AC572652CE5B004BC1AC /* AppDelegate.swift in Sources */,
 				2193AC592652CE5B004BC1AC /* SceneDelegate.swift in Sources */,
+				2193AC6B2652D1D8004BC1AC /* MAUXANHViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
