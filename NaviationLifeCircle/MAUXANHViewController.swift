@@ -48,6 +48,10 @@ class MAUXANHViewController: UIViewController {
         
         print(" View 2 - Xanh : Did DisAppear ")
     }
+    
+    // Hoc ky life circle tren : appear and disappear
+    
+    
     /*
     // MARK: - Navigation
 
